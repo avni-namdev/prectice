@@ -1,2 +1,2 @@
 # prectice
-for prectice
+for doing prectice
